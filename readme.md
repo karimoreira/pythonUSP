@@ -7,7 +7,7 @@ Este repositório contém pequenos scripts e exercícios desenvolvidos durante m
 Um dos primeiros desafios em scripts é um conversor simples de temperatura de Fahrenheit para Celsius.
 
 <div align="center">
-  <img src="python.png" alt="desafio" width="300"/>
+  <img src="python.png" alt="desafio" width="800"/>
 </div>
 
 
