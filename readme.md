@@ -11,3 +11,8 @@ Um dos primeiros desafios em scripts é um conversor simples de temperatura de F
 </div>
 
 
+## Nome
+
+<div align="center">
+  <img src="nome.png" alt="desafio" width="800"/>
+</div>
